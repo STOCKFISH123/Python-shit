@@ -1,5 +1,4 @@
-#--------------------------------------------------------------------Code calculates with given method all the values in a list--------------------------------------------------------------------------------------
-
+#Code calculates with given method all the values in a list
 # Importing colors from colorama
 from colorama import Fore, Style, init 
 
