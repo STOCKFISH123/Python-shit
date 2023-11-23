@@ -1,7 +1,8 @@
 #Code calculates with given method all the values in a list
 # Importing colors from colorama
-from colorama import Fore, Style, init 
+# Need to "pip install colorama" on terminal for it to work
 
+from colorama import Fore, Style, init 
 # Creating necessary variables
 values = []
 z = 0
